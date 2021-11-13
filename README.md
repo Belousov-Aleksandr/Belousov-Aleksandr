@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Belousov-Aleksandr
 - 👀 I’m interested in Python, Machine Learning, Neural Network, Data Scientist.
-- 🌱 I’m currently learning in Skillbox.ru
+- 🌱 I’m currently learning in Skillbox.ru and DLS MIPT.
 - 💞️ I want to cooperate with you on possible employment issues.
 - 📫 How to reach me: berkeley-dev@mail.ru
